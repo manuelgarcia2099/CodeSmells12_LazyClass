@@ -1,0 +1,1 @@
+# CodeSmells12_LazyClass
